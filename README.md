@@ -9,9 +9,9 @@ Here is the Full Journey and the Outcome with resources, codes and more.
 
 The Course Consist of 3 Parts starting with Supervised ML, Advanced Learning Algorithms, Unsupervised Learning
 
-### Supervised Machine Learning
+## Supervised Machine Learning
 
-# 1 - Regression - Linear Regression
+#### 1 - Regression - Linear Regression
 To Apply i worked on Tesla Stock Prices Prediction using linear regression
 Link to Github: 
 
