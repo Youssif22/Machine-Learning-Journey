@@ -11,7 +11,7 @@ The Course Consist of 3 Parts starting with Supervised ML, Advanced Learning Alg
 
 ### Supervised Machine Learning
 
-## 1 - Regression - Linear Regression
+# 1 - Regression - Linear Regression
 To Apply i worked on Tesla Stock Prices Prediction using linear regression
 Link to Github: 
 
